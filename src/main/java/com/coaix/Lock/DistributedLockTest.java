@@ -7,8 +7,7 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ThreadFactory;
 
 /**
- * @author LiaoWei
- * @date 2022-02-07 20:39
+ * 分布式锁测试
  */
 public class DistributedLockTest {
     public static void main(String[] args) throws InterruptedException, IOException, KeeperException {

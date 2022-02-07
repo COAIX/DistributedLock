@@ -1,9 +1,7 @@
 package com.coaix.zk;
-
 import org.apache.log4j.Logger;
 import org.apache.zookeeper.*;
 import org.junit.Test;
-
 import java.io.IOException;
 import java.util.List;
 
